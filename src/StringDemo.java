@@ -2,7 +2,7 @@ public class StringDemo {
     public static void main(String[] args) {
         // Declarar y manipular cadenas de texto
         String greeting = "Hello";
-        String name = "Alice";
+        String name = "Esteban";
 
         // Concatenación de cadenas
         String message = greeting + ", " + name + "!";
